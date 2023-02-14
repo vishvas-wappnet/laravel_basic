@@ -17,6 +17,13 @@ Route::get('wel', function () {
 
 });
 
+
+
+Route::get('deve', function () {
+    return view('deve');
+
+});
+
 Route::get('/', function () {
     return view('welcome');
 });

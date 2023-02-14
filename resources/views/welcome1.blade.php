@@ -7,7 +7,11 @@
 <center>
 
 <?php
-       echo"welcome to first  laravel project project";
+       echo "welcome to first  laravel project project";
+
+
+
+       echo ""
 
 
 ?>
